@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "732326019334",
+    "firebase_url": "https://fir-83a39.firebaseio.com",
+    "project_id": "fir-83a39",
+    "storage_bucket": "fir-83a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732326019334:android:4a8ebd8f08a362f2",
+        "android_client_info": {
+          "package_name": "com.example.admin.firebasedatabseconcept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732326019334-fn825ou23eb6lc8scsu0q7nr6ii4418l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.firebasedatabseconcept",
+            "certificate_hash": "5ca75e0b17174c92705a2f6b0de44b19cd17e9aa"
+          }
+        },
+        {
+          "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcqp5T1DWa8NPoxqrvDTnAakkcwzCAN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732326019334:android:4ef5f5ed1120b90a151e87",
+        "android_client_info": {
+          "package_name": "com.venkat.exampletask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732326019334-95jb99a343l6qtbb1rs86rljn2cf3ud6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkat.exampletask",
+            "certificate_hash": "bab15ecdc3ef62ab3bca22b536dcd7a3ed5592eb"
+          }
+        },
+        {
+          "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcqp5T1DWa8NPoxqrvDTnAakkcwzCAN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732326019334:android:9921fc316d133dc2151e87",
+        "android_client_info": {
+          "package_name": "com.venkat.geofiredemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732326019334-gmnbch9hco4m57jo4haktbt9b44b3e46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venkat.geofiredemoapp",
+            "certificate_hash": "bab15ecdc3ef62ab3bca22b536dcd7a3ed5592eb"
+          }
+        },
+        {
+          "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcqp5T1DWa8NPoxqrvDTnAakkcwzCAN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732326019334:android:dcd4f7aa2b3ee92e151e87",
+        "android_client_info": {
+          "package_name": "com.venky.contactapplicationusingwithspring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732326019334-o1adb97cak1h5q5gbaeojca8bstjju3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venky.contactapplicationusingwithspring",
+            "certificate_hash": "bab15ecdc3ef62ab3bca22b536dcd7a3ed5592eb"
+          }
+        },
+        {
+          "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDcqp5T1DWa8NPoxqrvDTnAakkcwzCAN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732326019334-dth3g3sos16o07l7mft2eog585jl8hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

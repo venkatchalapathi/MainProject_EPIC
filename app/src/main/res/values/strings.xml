@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example Task</string>
+    <string name="url">https://script.googleusercontent.com/</string>
+</resources>
